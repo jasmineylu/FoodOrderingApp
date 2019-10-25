@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tacoPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="Taco"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/tacoDescription"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:text="🌮 A soft shell taco with grilled chicken, lettuce, corn, tomatoes and salsa"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+</LinearLayout>

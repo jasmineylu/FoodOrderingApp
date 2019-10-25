@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Food Ordering App</string>
+    <string name="menu" />
+    <string name="burger" />
+    <string name="fries" />
+    <string name="view_order" />
+    <string name="sandwich" />
+    <string name="burrito" />
+    <string name="taco" />
+    <string name="pancakes" />
+    <string name="sushi" />
+    <string name="pizza" />
+    <string name="chicken" />
+    <string name="cake" />
+    <string name="hot_dog" />
+    <string name="salad" />
+    <string name="ice_cream" />
+    <string name="donut" />
+    <string name="soda" />
+</resources>

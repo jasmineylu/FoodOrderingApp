@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/donutPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="Donut"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/donutDescription"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:text="🍩 A donut covered in chocolate icing and colourful sprinkles"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+</LinearLayout>

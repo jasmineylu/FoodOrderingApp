@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/burritoPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="Burrito"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/burritoDescription"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:text="🌯 A burrito has a beef mince, beans, tomatoes, onion, rice, cheese and guacamole"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/hot_dogPage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="Hot Dog"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/hot_dogDescription"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:text="🌭 A hot dog has a sausage in a bun with ketchup and mustard"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="40sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="parent_layout" type="id" />
+    <item name="menu" type="id" />
+    <item name="burgerText" type="id" />
+    <item name="friesText" type="id" />
+    <item name="pizzaText" type="id" />
+    <item name="hot_dogText" type="id" />
+    <item name="chickenText" type="id" />
+    <item name="sandwichText" type="id" />
+    <item name="tacoText" type="id" />
+    <item name="burritoText" type="id" />
+    <item name="saladText" type="id" />
+    <item name="sushiText" type="id" />
+    <item name="pancakesText" type="id" />
+    <item name="cakeText" type="id" />
+    <item name="donutText" type="id" />
+    <item name="ice_creamText" type="id" />
+    <item name="sodaText" type="id" />
+</resources>
